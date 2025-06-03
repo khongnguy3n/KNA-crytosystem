@@ -2,10 +2,12 @@
 
 **Author**: Nguyễn Minh Chính  
 **Project**: A novel symmetric encryption model.
+## Document
 
-This project introduces a symmetric cryptosystem using bit reversal, bit position inversion, string repetition, and noise injection.
+The full paper is provided in the `/paper` directory: https://github.com/khongnguy3n/KNA-crytosystem/blob/main/paper/KNA%20Cryptosystem.pdf
+> The original research was conducted by **khong Nguyen** (Germany, 2025).
 
-
+---
 
 ## Purpose of the Project
 
@@ -21,7 +23,7 @@ The project is shared publicly to:
 
 For collaboration, feedback, or opportunities, please contact:
 
-> **Nguyễn Minh Chính**  
+> **Khong Nguyen**  
 
 > Email:khongnguy3n@gmail.com
 > Telephone: +491624597204
