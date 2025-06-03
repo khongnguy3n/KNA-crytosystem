@@ -1,14 +1,14 @@
-# Prime Number Rule and Accurate π(m) Computation
+ # KNA Cryptosystem
 
 **Author**: Nguyễn Minh Chính  
-**Project**: A deterministic model using recursive sequences and multiplicative filters.
+**Project**: A novel symmetric encryption model.
 
-This research presents a method for generating prime-related sequences and an algorithm for computing the prime-counting function π(m) with high accuracy.
+This project introduces a symmetric cryptosystem using bit reversal, bit position inversion, string repetition, and noise injection.
 
 ## Purpose
 
-Looking for academic partnerships or institutions interested in number theory and algorithm design.
+I am seeking academic collaboration or institutional partnership to further develop this research and explore publication and visa options.
 
-📄 **Full Paper**: [KNA Cryptosystem.pdf](https://github.com/user-attachments/files/20558016/KNA.Cryptosystem.pdf)
+📄 **Full Paper**: [[KNA Cryptosystem.pdf](https://github.com/user-attachments/files/20558016/KNA.Cryptosystem.pdf)](https://github.com/khongnguy3n/KNA-crytosystem/blob/main/paper/KNA%20Cryptosystem.pdf)
 
 
