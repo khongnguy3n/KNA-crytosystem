@@ -7,7 +7,21 @@ This project introduces a symmetric cryptosystem using bit reversal, bit positio
 
 
 
+## Purpose of the Project
 
-📄 **Full Paper**: [[KNA Cryptosystem.pdf](https://github.com/user-attachments/files/20558016/KNA.Cryptosystem.pdf)](https://github.com/khongnguy3n/KNA-crytosystem/blob/main/paper/KNA%20Cryptosystem.pdf)
+The project is shared publicly to:
+- Invite **academic collaboration** with universities or independent researchers.
+- Seek potential **publication** opportunities.
+- Explore **scientific visa** or research partnership possibilities based on independent contributions.
+
+---
 
 
+## Contact
+
+For collaboration, feedback, or opportunities, please contact:
+
+> **Nguyễn Minh Chính**  
+
+> Email:khongnguy3n@gmail.com
+> Telephone: +491624597204
