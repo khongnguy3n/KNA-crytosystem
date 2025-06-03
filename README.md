@@ -4,7 +4,7 @@
 **Project**: A novel symmetric encryption model.
 ## Document
 
-The full paper is provided in the `/paper` directory: https://github.com/khongnguy3n/KNA-crytosystem/blob/main/paper/KNA%20Cryptosystem.pdf
+The full paper is provided in the directory: https://github.com/khongnguy3n/KNA-crytosystem/blob/main/paper/KNA%20Cryptosystem.pdf
 > The original research was conducted by **khong Nguyen** (Germany, 2025).
 
 ---
