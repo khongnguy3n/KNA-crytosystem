@@ -38,11 +38,8 @@ This cryptosystem is designed to:
 
 ## 🖼️ Encryption/Decryption Diagram
 
-![KNA Encryption/Decryption Process](images/KNA_process.png)
+![image](https://github.com/user-attachments/assets/ddc4a8c6-4b72-4507-a3e2-dd75f545c8b3)
 
-> *Ensure this image is stored in the `images/` folder inside your repository.*
-
----
 
 ## 📁 File Structure
 
