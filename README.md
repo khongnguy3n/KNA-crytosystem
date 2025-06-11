@@ -50,8 +50,4 @@ This cryptosystem is designed to:
 📧 Email: khongnguy3n@gmail.com  
 📞 Phone: +49 1624597204  
 
----
 
-## 🌐 License
-
-This project is released under the MIT License.
