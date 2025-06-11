@@ -42,10 +42,7 @@ This cryptosystem is designed to:
 
 
 
-## 📁 File Structure
 
-
----
 
 ## ✍️ Author
 
