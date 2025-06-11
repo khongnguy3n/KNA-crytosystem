@@ -38,7 +38,8 @@ This cryptosystem is designed to:
 
 ## 🖼️ Encryption/Decryption Diagram
 
-![image](https://github.com/user-attachments/assets/ddc4a8c6-4b72-4507-a3e2-dd75f545c8b3)
+![image](https://github.com/user-attachments/assets/f08d048d-ca5e-4572-b0e0-1c538a9f4d5f)
+
 
 
 ## 📁 File Structure
