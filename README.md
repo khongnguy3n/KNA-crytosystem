@@ -40,8 +40,10 @@ This cryptosystem is designed to:
 
 ![image](https://github.com/user-attachments/assets/f08d048d-ca5e-4572-b0e0-1c538a9f4d5f)
 
+## Document
 
-
+The full paper is provided in the directory:
+https://github.com/khongnguy3n/KNA-crytosystem/blob/main/KNA%20Cryptosystem.pdf
 
 
 ## ✍️ Author
