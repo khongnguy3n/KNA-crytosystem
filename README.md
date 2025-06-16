@@ -1,6 +1,6 @@
 # 🔐 KNA Cryptosystem
 
-The **KNA Cryptosystem** is a custom-designed lightweight encryption algorithm that utilizes **bitwise inversion**, **bit permutation**, and **noise injection** for secure data encoding. It is structured to be simple, fast, and resistant to basic attacks.
+The KNA cryptosystem, a novel encryption framework based on bitwise inversion, bit position permutation, and noise insertion in binary sequences. Utilizing repeated concatenation and dynamic permutation generated from secret keys, KNA achieves exponential computational complexity for attackers while maintaining linear-time encryption performance. Our analysis demonstrates KNA’s resistance to brute-force and side-channel attacks and its potential to become one of the strongest encryption schemes to date.
 
 ---
  
